@@ -11,7 +11,7 @@ The first step of using any dataset to train a machine learning model to achieve
 
 **Methodology:** The working principle that was followed to successfully achieve the task is described in[` `**Figure 1**.](#_page0_x51.00_y457.92) The working principle is divided into four processes. 
 
-Data  Data  Data Pre- Machine Cleaning![](Aspose.Words.3c68195f-5e15-4d87-a89f-8e16f7228ca9.001.png) Analysis processing Learning models
+![](Methodology.png) 
 
 <a name="_page0_x51.00_y457.92"></a>**Figure 1- Methodology followed to achieve binary classification.** 
 
