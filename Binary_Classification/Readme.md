@@ -11,7 +11,7 @@ The first step of using any dataset to train a machine learning model to achieve
 
 **Methodology:** The working principle that was followed to successfully achieve the task is described in[` `**Figure 1**.](#_page0_x51.00_y457.92) The working principle is divided into four processes. 
 
-Data  Data  Data Pre- Machine Cleaning![](Aspose.Words.3c68195f-5e15-4d87-a89f-8e16f7228ca9.001.png) Analysis processing Learning models
+![](Aspose.Words.3c68195f-5e15-4d87-a89f-8e16f7228ca9.001.png) 
 
 <a name="_page0_x51.00_y457.92"></a>**Figure 1- Methodology followed to achieve binary classification.** 
 
@@ -78,6 +78,6 @@ Training the four classifiers for all the above-mentioned methods was then follo
 
 **Note:** 
 
-**Notebook1-** **BMW\_classification\_task.ipynb:** This notebook contains method 1 and method 2 described above. 
+**Notebook1-** **Binary\_classification\_task.ipynb:** This notebook contains method 1 and method 2 described above. 
 
-**Notebook 2- class\_imbalance\_solution.ipynb:** This notebook contains method 3 for all the four classifiers. 
+**Notebook 2- Binary\_classification\_data\_imbalance\_solution.ipynb:** This notebook contains method 3 for all the four classifiers. 
