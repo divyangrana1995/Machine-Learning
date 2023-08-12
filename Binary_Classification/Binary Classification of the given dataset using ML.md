@@ -78,6 +78,6 @@ Training the four classifiers for all the above-mentioned methods was then follo
 
 **Note:** 
 
-**Notebook1-** **BMW\_classification\_task.ipynb:** This notebook contains method 1 and method 2 described above. 
+**Notebook1-** **Binary\_classification\_task.ipynb:** This notebook contains method 1 and method 2 described above. 
 
-**Notebook 2- class\_imbalance\_solution.ipynb:** This notebook contains method 3 for all the four classifiers. 
+**Notebook 2- Binary\_classification\_data\_imbalance\_solution.ipynb:** This notebook contains method 3 for all the four classifiers. 
