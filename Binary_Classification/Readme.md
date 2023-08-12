@@ -76,8 +76,8 @@ Training the four classifiers for all the above-mentioned methods was then follo
 <tr><td colspan="1" valign="top">RF </td><td colspan="1" valign="top">0\.990 </td><td colspan="1" valign="top">0\.99 </td><td colspan="1" valign="top">0\.93 </td><td colspan="1" valign="top">0\.96 </td></tr>
 </table>
 
-**Note:** 
+#**Note:** 
 
-**Notebook1-** **Binary\_classification\_task.ipynb:** This notebook contains method 1 and method 2 described above. 
+#**Notebook1-** **Binary\_classification\_task.ipynb:** This notebook contains method 1 and method 2 described above. 
 
-**Notebook 2- Binary\_classification\_data\_imbalance\_solution.ipynb:** This notebook contains method 3 for all the four classifiers. 
+#**Notebook 2- Binary\_classification\_data\_imbalance\_solution.ipynb:** This notebook contains method 3 for all the four classifiers. 
